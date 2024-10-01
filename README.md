@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Rahul and I'm a final year student in NITK. I am extremely passionate about AI and Research.</p>
+<p align="left">I'm Rahul and I'm a final year student in NITK. I am extremely passionate about AI and Research.</p>
 
 ###
 
